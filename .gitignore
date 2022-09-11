@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 /3d
+data/videos
